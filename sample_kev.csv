@@ -1,0 +1,6 @@
+cveID,vendorProject,product,vulnerabilityName,dateAdded,shortDescription,requiredAction,dueDate,knownRansomwareCampaignUse,notes
+CVE-2021-26855,Microsoft,Exchange Server,ProxyLogon,2021-11-03,"SSRF in Exchange",Apply updates,2021-11-17,Known,""
+CVE-2021-44228,Apache,Log4j,Log4Shell,2021-12-10,"RCE via JNDI",Apply updates,2021-12-24,Known,""
+CVE-2019-11510,Pulse Secure,Connect Secure,Arbitrary File Read,2021-11-03,"Auth bypass",Apply updates,2021-11-17,Known,""
+CVE-2017-5638,Apache,Struts 2,RCE,2021-11-03,"OGNL injection",Apply updates,2021-11-17,Known,""
+CVE-2022-30190,Microsoft,Windows,MSDT Follina,2022-06-01,"Code execution via MSDT",Apply updates,2022-06-15,Known,""
